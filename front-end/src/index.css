@@ -1,0 +1,20 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #adadad;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #adadad;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #adadad;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  background:  linear-gradient(79deg, #596BAA 0%, #6661A2 100%);
+}
+

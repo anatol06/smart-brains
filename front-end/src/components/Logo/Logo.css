@@ -1,0 +1,17 @@
+.Tilt {
+	background:  linear-gradient(79deg, #596BAA 0%, #6661A2 100%);
+	opacity: 0.9;
+	position: absolute;
+	top: 30px;
+}
+
+@media only screen and (max-width: 987px) {
+    .Tilt {
+		display: none;
+	}
+}
+
+.logo {
+	margin: 0;
+	padding: 0;
+}

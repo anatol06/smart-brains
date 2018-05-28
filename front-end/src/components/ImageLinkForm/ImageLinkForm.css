@@ -1,0 +1,7 @@
+form#image-link{
+	width:  700px;
+	background: linear-gradient(79deg, #6662A4 0%, #596BAA 100%);
+	opacity:  .93;
+	-webkit-box-shadow: 4px 4px 14px 4px rgba(0,0,0,0.28); 
+	box-shadow: 3px 3px 10px 3px rgba(0,0,0,0.16);
+}
